@@ -1,0 +1,26 @@
+.hero-background-img {
+  background-image: url("https://wallpapercave.com/wp/wp2136275.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:200px;
+  padding-bottom:200px;
+  margin-bottom: 0px;
+
+}
+
+.hero-background-img {
+  position: relative;
+  padding-top:200px;  
+  padding-bottom:200px;
+}
+
+.navbar {
+  padding 1rem;
+  background-color: #90ee90;
+  color:white;
+}
+
+body {
+  background-color: #90ee90;
+}
